@@ -13,5 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophiecalixto&show_icons=true&theme=dark&locale=en&layout=compact" alt="sophiecalixto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophiecalixto&theme=dark" alt="sophiecalixto" /></p>
-<p><img align="center" src="https://i.pinimg.com/originals/2c/11/b2/2c11b2d6de04022017702e8ce97d0a6a.gif" alt="lain" /></p>
+<p><img align="center" style="width: 300px" src="https://diepixel.com/wp-content/uploads/2017/07/AXYA7392.gif" alt="lain" /></p>
 
