@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sophie Calixto</h1>
-<h3 align="center">Front-end development student from Brazil</h3>
+<h3 align="center">Web development from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
