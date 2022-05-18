@@ -37,8 +37,15 @@
    <p>  <i> > Olá, sou a Sophie </i> uma programadora e estudante de programação autodidata, atualmente tenho 18 anos e moradora de Itapevi - SP. Aprender para mim sempre foi algo prazeroso, poder descobrir o funcionamento de sistemas e colocar minhas ideias em prática sempre foi oque quis fazer e graças a programação posso fazer 😄.<br><br>
   Comecei essa trilha de descobrimento no mundo virtual com meus 11 para 12 anos de idade, na época dos joguinhos em flash, era incrível poder ver tudo aquilo se encaixando, então se dava inicio com Delphi e Visual Basic minha jornada.<br><br>
   Alguns de meus passatempos preferidos é o descobrimento de novos hobbies, ler e como qualquer um, jogar... <br><br>
-   </p>
+   </p><br><br>
    <hr></hr>
+   <h3> 📌 Onde me encontrar: </h3>
    
+   <div align="center">
+     <a href="https://www.linkedin.com/in/sophiecalixto/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+     <a href="https://twitter.com/SophieCalixto" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"</a>
+      <a href="https://api.whatsapp.com/send?phone=5519983710135&text=Ol%C3%A1,%20acessei%20seu%20Link%20Personalizado%20What%27s%20Link" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+     <a href="https://discord.gg/VHZknj3C" target="_blank"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
+   </div>
 
 </div>
