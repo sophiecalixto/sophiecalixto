@@ -1,6 +1,6 @@
 <div align="center">
    <h3> Olá, sou Sophie <img src="https://c.tenor.com/HqyvGWPLC5UAAAAi/lain-serial-experiments-lain.gif" width="50" height="50"  align="center" />
-   <h3> 🖥️ <i>Front-end Developer</i> </h3>
+   <h3> 🖥️ <i>Full stack Developer</i> </h3>
 </div>
   <hr></hr>
 <div>
