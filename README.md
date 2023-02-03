@@ -1,55 +1,90 @@
-<div align="center">
-   <h3> Olá, sou Sophie <img src="https://c.tenor.com/HqyvGWPLC5UAAAAi/lain-serial-experiments-lain.gif" width="50" height="50"  align="center" />
-   <h3> 🖥️ <i>Full stack Developer</i> </h3>
-</div>
-  <hr></hr>
-<div>
-  <h3> ⚙️ Habilidades: </h3>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiecalixto&layout=compact&theme=omni" />
-  </div>
-  <h3> 📚 Estudando: </h3>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-</div>
-<hr></hr>
-<div>
-   <h3> 👋 Sobre mim: </h3>
-
-   <img src="https://64.media.tumblr.com/e268a670c258656a5f1336e99c9d342a/92915ad4ed73cc67-b1/s2048x3072/e73296020c1f1ae0ddb54725da54130389e09d67.pnj"  width ="350" height="350" align="right"/>
-
-   <p>  <i> > Olá, sou a Sophie </i> uma programadora e estudante de programação autodidata, atualmente tenho 18 anos e moradora de Itapevi - SP. Aprender para mim sempre foi algo prazeroso, poder descobrir o funcionamento de sistemas e colocar minhas ideias em prática sempre foi oque quis fazer e graças a programação posso fazer 😄.<br><br>
-  Comecei essa trilha de descobrimento no mundo virtual com meus 11 para 12 anos de idade, na época dos joguinhos em flash, era incrível poder ver tudo aquilo se encaixando, então se dava inicio com Delphi e Visual Basic minha jornada.<br><br>
-  Alguns de meus passatempos preferidos é o descobrimento de novos hobbies, ler e como qualquer um, jogar... <br><br>
-   </p><br><br>
-   <hr></hr>
-   <h3> 📌 Onde me encontrar: </h3>
+<h2 align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F716&width=435&lines=Hi%2C+i'm+Sophi;Full-stack+developer" alt="Typing SVG" /></a>
+   <br>
+   <img src="https://komarev.com/ghpvc/?username=TravisRoad&color=red](https://komarev.com/ghpvc/?username=sophiecalixto&color=green" />
    
-   <div align="center">
-     <a href="https://www.linkedin.com/in/sophiecalixto/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-     <a href="https://twitter.com/SophieCalixto" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"</a>
-      <a href="https://api.whatsapp.com/send?phone=5519983710135&text=Ol%C3%A1,%20acessei%20seu%20Link%20Personalizado%20What%27s%20Link" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-     <a href="https://discord.gg/VHZknj3C" target="_blank"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"</a>
-   </div>
+</h2>
 
+<br>
+
+<div>
+   
+   <p> - IDEs </p>
+   
+   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC" />
+   <img alt="IntellijIDEA" src="https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Intellij%20IDEA&logoColor=FC444F" />
+   <img alt="EclipseIDE" src="https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse&logoColor=FFF" />
+   
+   <br>
+   
+   <p> - tech stack </p>
+   
+   ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=C21325)
+   ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=009dff)
+   ![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=javascript&logoColor=ffd900)
+   ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript&logoColor=05f)
+   ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=00bfff)
+   
+   <p> - front-end web frameworks </p>
+   
+   ![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=00c3ff)
+   ![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue&logoColor=00ff62)
+   ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=ff001e)
+   
+   <p> - MVC stack </p>
+   
+   ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel&logoColor=ff001e)
+   
+   <p> - front-end web css </p>
+   
+   ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind&logoColor=00bfff)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=ea00ff)
+   ![Material-ui](https://img.shields.io/badge/-Material-000?&logo=material&logoColor=ea00ff)
+   ![Styled-components](https://img.shields.io/badge/-Styled%20Components-000?&logo=material&logoColor=ea00ff)
+   
+   <p> - back-end preferences </p>
+   
+   ![Node](https://img.shields.io/badge/-Nodejs-000?&logo=nodejsl&logoColor=ff001e)
+   ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=C21325)
+   ![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=typescript&logoColor=05f)
+   
+   <p> - back-end frameworks </p>
+   
+   ![Express](https://img.shields.io/badge/-Express-000?&logo=expressl&logoColor=ff001e)
+   ![Nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=nextjsl&logoColor=ff001e)
+   ![Springboot](https://img.shields.io/badge/-Java%20Springboot-000?&logo=Springl&logoColor=ff001e)
+   ![Meteorjs](https://img.shields.io/badge/-Meteorjs-000?&logo=meteorjsl&logoColor=ff001e)
+   
+   <p> - mobile frameworks </p>
+   
+   ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=0af)
+   
+</div>
+
+<div>
+
+   <img align="left" width="300" src="https://media.tenor.com/ADe3BUYP3jUAAAAd/kobayashi-dragon-maid.gif" alt="kobayashi" />
+   
+   ```diff
+   @@Autodidact programming student@@
+   + technology lover
+   ! anime lover
+   ! star wars lover
+   # computer science student
+   
+   ----------------------------------
+   
+   > From: São Paulo - Brazil
+   
+   ----------------------------------
+   
+   @@Matters of interest@@
+   
+   + Philosophy
+   + Arts
+   + Games
+   + Subcultures
+   + Psychology
+   ```
+   
 </div>
