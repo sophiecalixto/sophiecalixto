@@ -90,4 +90,36 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 392 Contributions in the Year 2023
+ > 
+> 📦 33.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 42 Public Repositories 
+ > 
+> 🔑 13 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               17 repos            ████████░░░░░░░░░░░░░░░░░   32.08 % 
+CSS                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87 % 
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+PHP                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sophiecalixto/sophiecalixto/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/02/2023 14:18:30 UTC
 <!--END_SECTION:waka-->
