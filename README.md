@@ -63,7 +63,7 @@
 
 <div>
 
-   <img align="left" width="300" src="https://media.tenor.com/ADe3BUYP3jUAAAAd/kobayashi-dragon-maid.gif" alt="kobayashi" />
+   <img align="left" width="300" src="https://hugelolcdn.com/i/92708.gif" alt="cube" />
    
    ```diff
    @@Autodidact programming student@@
