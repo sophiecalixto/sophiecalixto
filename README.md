@@ -80,10 +80,10 @@
    
    @@Matters of interest@@
    
-   + Philosophy
-   + Arts
+   + Math
+   + Chemistry
    + Games
-   + Subcultures
+   + Biohacking
    + Psychology
    ```
    
